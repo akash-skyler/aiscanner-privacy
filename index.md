@@ -2,7 +2,7 @@
 
 Last updated: November 7, 2026
 
-AI Scanner: Scan & Sign PDF ("the app") is developed by Akash ("we", "us"). Contact: [YOUR SUPPORT EMAIL]
+AI Scanner: Scan & Sign PDF ("the app") is developed by Akash and Tortzo Team ("we", "us"). Contact: hello.tortzo@gmail.com
 
 ## Summary
 Your documents stay on your phone. The app has no accounts, no advertising and no analytics. We do not collect, upload, store or sell your documents, scanned text or signatures.
