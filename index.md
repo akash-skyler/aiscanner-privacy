@@ -1,11 +1,11 @@
 # Privacy Policy for AI Scanner: Scan & Sign PDF
 
-Last updated: November 7, 2026
+Last updated: November 8, 2026
 
 AI Scanner: Scan & Sign PDF ("the app") is developed by Akash and Tortzo Team ("we", "us"). Contact: hello.tortzo@gmail.com
 
 ## Summary
-Your documents stay on your phone. The app has no accounts, no advertising and no analytics. We do not collect, upload, store or sell your documents, scanned text or signatures.
+Your documents stay on your phone. The app has no accounts and no advertising, and we use no analytics software of our own. We do not collect, upload, store or sell your documents, scanned text or signatures.
 
 ## What the app does on your device
 - **Scanning:** documents are scanned with Google's on-device ML Kit document scanner, provided through Google Play services.
@@ -15,7 +15,10 @@ Your documents stay on your phone. The app has no accounts, no advertising and n
 - **Sharing and saving:** files leave the app only when you choose to share or save them, using your phone's share menu or file picker.
 
 ## Data we collect
-None. We do not collect personal information, location, contacts, device identifiers, advertising identifiers or usage analytics.
+We do not collect, store or receive your documents, scanned text, signatures, personal information, location, contacts or advertising identifiers.
+
+## Google ML Kit diagnostics
+The app uses Google ML Kit, provided through Google Play services, for scanning and text reading. Your images and text are processed on your device and are not sent to Google. ML Kit does send limited technical diagnostics to Google, such as device model and operating system version, the app package name and version, performance metrics and error codes, to measure performance and fix problems. This data is encrypted in transit and is handled under Google's privacy policy: https://policies.google.com/privacy
 
 ## Purchases
 Premium purchases, when available, are processed by Google Play. We do not see or store your payment details.
@@ -24,7 +27,7 @@ Premium purchases, when available, are processed by Google Play. We do not see o
 The app relies on Google Play services and Google ML Kit. Google may process limited technical information under its own privacy policy: https://policies.google.com/privacy
 
 ## Advertising and analytics
-The app contains no advertising and no third-party analytics software.
+The app contains no advertising. We do not use any analytics or tracking software of our own. The only diagnostics are the Google ML Kit metrics described above.
 
 ## Children
 The app is not directed to children under 13.
