@@ -1,6 +1,6 @@
 # Privacy Policy for AI Scanner: Scan & Sign PDF
 
-Last updated: November 10, 2026
+Last updated: November 11, 2026
 
 AI Scanner: Scan & Sign PDF ("the app") is developed by Tortzo Team ("we", "us"). Contact: hello.tortzo@gmail.com
 
